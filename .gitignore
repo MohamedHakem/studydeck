@@ -1,0 +1,5 @@
+node_modules/
+.cloudflare/
+*.local.json
+.DS_Store
+Thumbs.db
